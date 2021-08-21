@@ -11,14 +11,14 @@ def repeated_tasks(c,s,a):
         
         
     
-#This function call is to make the house shelter
+#This function call is to make the house shelter i.e upper part of the house
 
 turtle.forward(25)
 turtle.right(90)
 #This function call is to make the lower part of the house
 
 
-#The below steps till the end are for drawing a circle
+#The below steps till the end are for drawing a circle(window)
 turtle.penup()
 turtle.forward(62.5)
 turtle.left(90)
